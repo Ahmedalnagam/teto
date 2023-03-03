@@ -154,7 +154,7 @@ i{
 /* start landing */
 .landing{
     height: calc(100vh - 58px);
-    background-image:url(../../../pictures/budgie-g7eef275af_1920.jpg) ;
+    background-image:url(pictures/budgie-g7eef275af_1920.jpg) ;
     background-size:100% 100%;
     background-repeat: no-repeat ;
     position: relative;
